@@ -5,6 +5,7 @@ Kaggle training notebooks for Neural Surge projects, grouped by project.
 | Folder | Project | Contents |
 |---|---|---|
 | [`MediGraph/`](MediGraph) | MediGraph | Medical-imaging classifiers and detectors (kidney, liver, brain, CT, bone, spine, chest X-ray) |
+| [`CardioGraph/`](CardioGraph) | CardioGraph | 12-lead ECG multi-label classifier (PTB-XL) and echo ejection-fraction regressor (EchoNet-Dynamic) |
 | [`Jonas/`](Jonas) | Jonas | Qwen3-14B LLM + PaddleOCR document pipeline for finance / AP invoices |
 | [`data_sources/`](data_sources) | - | `all_data_sources.csv` (every dataset / pretrained model used) and `notebook_inventory.csv` (notebook -> task, model, result, original filename) |
 
